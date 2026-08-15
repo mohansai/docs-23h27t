@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-pp4me3.suraelineasoat.com/sitemap.xml
